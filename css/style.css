@@ -308,11 +308,11 @@
 .plumbing-services-section {
 	width: 100%;
 	background-color: rgb(16, 78, 146);
-	padding: 10% 0px 5%;
+	padding: 10% 0px 10%;
 }
 
 .plumbing-services {
-	width: 100%;
+	width: 90%;
 	margin: 0 auto;
 	display: flex;
 	/* flex-wrap: wrap; */
@@ -330,7 +330,7 @@
 }
 
 .plumbing-left h1 {
-	font-size: 6rem;
+	font-size: 5.5rem;
 	line-height: 1;
 	margin: 10px 0 0;
 }
@@ -338,12 +338,12 @@
 .top,
 .bottom {
 	display: flex;
-	width: 100%;
+	width: 80%;
 	flex-direction: row;
 }
 
 .pics4 {
-	width: 300px;
+	Width: 100%;
 	height: 200px;
 	margin: 10px;
 	background-image: url(../images/billionphotos1882951.jpg);
@@ -351,7 +351,7 @@
 }
 
 .pics3 {
-	width: 300px;
+	Width: 100%;
 	height: 200px;
 	margin: 10px;
 	background-size: cover;
@@ -359,7 +359,7 @@
 }
 
 .pics1 {
-	width: 300px;
+	Width: 100%;
 	height: 200px;
 	margin: 10px;
 	background-size: cover;
@@ -367,7 +367,7 @@
 }
 
 .pics2 {
-	width: 300px;
+	Width: 100%;
 	height: 200px;
 	background-size: cover;
 	margin: 10px;
