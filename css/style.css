@@ -10,6 +10,8 @@
 	width: 100%;
 	background-size: cover;
 	height: 100vh;
+background-position:50% 25%;
+
 	background-repeat: no-repeat;
 	background-image: url(../images/hero-bg.jpg);
 	padding: 18% 70px 10%;
