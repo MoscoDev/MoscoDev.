@@ -326,7 +326,7 @@
 }
 
 .plumbing-right {
-	width: 100%;
+	width: 80%;
 }
 
 .plumbing-left h1 {
@@ -343,7 +343,7 @@
 }
 
 .pics4 {
-	Width: 100%;
+	Width: 80%;
 	height: 200px;
 	margin: 10px;
 	background-image: url(../images/billionphotos1882951.jpg);
@@ -351,7 +351,7 @@
 }
 
 .pics3 {
-	Width: 100%;
+	Width: 80%;
 	height: 200px;
 	margin: 10px;
 	background-size: cover;
@@ -359,7 +359,7 @@
 }
 
 .pics1 {
-	Width: 100%;
+	Width: 80%;
 	height: 200px;
 	margin: 10px;
 	background-size: cover;
@@ -367,7 +367,7 @@
 }
 
 .pics2 {
-	Width: 100%;
+	Width: 80%;
 	height: 200px;
 	background-size: cover;
 	margin: 10px;
